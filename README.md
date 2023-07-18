@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Miguel Hort 👋
 
+- 📚 Cursando Técnico de Desenvolvimento de Sistemas.
+- 🌱 Atualmente estudando HTML5, CSS e JavaScript.
+
 <div>
         <a href="https://www.linkedin.com/in/miguel-hort-a05537204/"></a>
         <img height="180em"
@@ -18,7 +21,7 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         <img align="center" alt="Rafa-Csharp" height="30" width="40"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    </div> <br>
+    </div> <hr>
     <div>
         <a href="https://www.instagram.com/miguelhort/" target="_blank"><img
                 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
