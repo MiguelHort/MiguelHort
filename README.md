@@ -6,8 +6,6 @@
 <div>
         <a href="https://www.linkedin.com/in/miguel-hort-a05537204/"></a>
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=MiguelHort&show_icons=true&theme=tokyonight">
-        <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHort&layout=compact&theme=tokyonight">
     </div>
     <div style="display: inline_block"><br>
