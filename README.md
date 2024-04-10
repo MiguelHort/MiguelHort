@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Miguel Hort 👋
 
 - 📚 Formado Técnico de Desenvolvimento de Sistemas.
+- 🖥️ Cursando Engenharia de Software.
 - 🌱 Atualmente estudando HTML5, CSS, PHP e JavaScript.
 
 <div>
