@@ -2,7 +2,7 @@
 
 - 📚 Formado Técnico de Desenvolvimento de Sistemas.
 - 🖥️ Cursando Engenharia de Software.
-- 🌱 Atualmente estudando HTML5, CSS, PHP e JavaScript.
+- 🌱 Atualmente estudando JavaScript, React e Sass.
 
 Sou um desenvolvedor com formação técnica em desenvolvimento de sistemas. Embora eu não tenha experiência profissional formal, tenho uma paixão por aprender e melhorar constantemente minhas habilidades técnicas. As linguagens com as quais estou mais familiarizado incluem HTML, CSS, JavaScript, PHP e SQL.
 
