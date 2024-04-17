@@ -4,6 +4,12 @@
 - 🖥️ Cursando Engenharia de Software.
 - 🌱 Atualmente estudando HTML5, CSS, PHP e JavaScript.
 
+Sou um desenvolvedor com formação técnica em desenvolvimento de sistemas. Embora eu não tenha experiência profissional formal, tenho uma paixão por aprender e melhorar constantemente minhas habilidades técnicas. As linguagens com as quais estou mais familiarizado incluem HTML, CSS, JavaScript, PHP e SQL.
+
+Meu interesse é amplo e estou sempre aberto para explorar novos ambientes de trabalho e tecnologias. Atualmente estou gostando muito de trabalhar com o React.js junto ao Sass em meus projetos.
+
+Recentemente, trabalhei em alguns projetos pessoais que incluem um site para explorar locais na cidade e um site para a Juventude da Igreja. Esses projetos me permitiram aplicar e expandir meu conhecimento técnico, além de me dar uma visão valiosa do desenvolvimento de projetos do início ao fim.
+
 <div>
         <a href="https://www.linkedin.com/in/miguel-hort-a05537204/"></a>
         <img height="180em"
