@@ -26,6 +26,10 @@ Recentemente, trabalhei em alguns projetos pessoais que incluem um site para exp
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         <img align="center" alt="Rafa-Csharp" height="30" width="40"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+        <img align="center" alt="Rafa-Csharp" height="30" width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+        <img align="center" alt="Rafa-Csharp" height="30" width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     </div> <hr>
     <div>
         <a href="https://www.instagram.com/miguelhort/" target="_blank"><img
