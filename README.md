@@ -25,11 +25,11 @@ Recentemente, trabalhei em alguns projetos pessoais que incluem um site para exp
         <img align="center" alt="Rafa-Csharp" height="30" width="40"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         <img align="center" alt="Rafa-Csharp" height="30" width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
         <img align="center" alt="Rafa-Csharp" height="30" width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
         <img align="center" alt="Rafa-Csharp" height="30" width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
     </div> <hr>
     <div>
         <a href="https://www.instagram.com/miguelhort/" target="_blank"><img
