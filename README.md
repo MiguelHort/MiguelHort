@@ -4,11 +4,13 @@
 - 🖥️ Cursando Engenharia de Software.
 - 🌱 Atualmente estudando JavaScript, React e Sass.
 
-Sou um desenvolvedor com formação técnica em desenvolvimento de sistemas. Embora eu não tenha experiência profissional formal, tenho uma paixão por aprender e melhorar constantemente minhas habilidades técnicas. As linguagens com as quais estou mais familiarizado incluem HTML, CSS, JavaScript, PHP e SQL.
+Me chamo Miguel, tenho 18 anos e desde criança me interesso por tecnologia. Concluí o técnico em desenvolvimento de sistemas no SENAI em 2023, em 2024 ingressei no curso de engenharia de software na Universidade Católica de Santa Catarina.
 
-Meu interesse é amplo e estou sempre aberto para explorar novos ambientes de trabalho e tecnologias. Atualmente estou gostando muito de trabalhar com o React.js junto ao Sass em meus projetos.
+Academicamente falando, sempre tive um ótimo desempenho. Notas altas, bom relacionamento com o corpo docente, etc. Embora eu não tenha experiência profissional formal, tenho uma paixão por aprender e melhorar constantemente minhas habilidades técnicas. As linguagens com as quais estou mais familiarizado incluem HTML, CSS, JavaScript, PHP e SQL.
 
-Recentemente, trabalhei em alguns projetos pessoais que incluem um site para explorar locais na cidade e um site para a Juventude da Igreja. Esses projetos me permitiram aplicar e expandir meu conhecimento técnico, além de me dar uma visão valiosa do desenvolvimento de projetos do início ao fim.
+Meu interesse é amplo e estou sempre aberto para explorar novos ambientes de trabalho e tecnologias. Atualmente estou gostando muito de trabalhar com o React.js junto ao Tailwind em meus projetos.
+
+Recentemente, trabalhei em alguns projetos pessoais que incluem um site para explorar locais na cidade, um site para a Juventude da Igreja e um site para os Bombeiros. Esses projetos me permitiram aplicar e expandir meu conhecimento técnico, além de me dar uma visão valiosa do desenvolvimento de projetos do início ao fim.
 
 <div>
         <a href="https://www.linkedin.com/in/miguel-hort-a05537204/"></a>
