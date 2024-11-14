@@ -4,13 +4,15 @@
 - 🖥️ Cursando Engenharia de Software.
 - 🌱 Atualmente estudando JavaScript, React e Sass.
 
-Me chamo Miguel, tenho 18 anos e desde criança me interesso por tecnologia. Concluí o técnico em desenvolvimento de sistemas no SENAI em 2023, em 2024 ingressei no curso de engenharia de software na Universidade Católica de Santa Catarina.
+Meu nome é Miguel, tenho 19 anos, e sou apaixonado por tecnologia desde a infância. Atualmente, trabalho como Desenvolvedor Progress 4GL, com experiência no ERP Datasul. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI em 2023 e estou cursando Engenharia de Software na Universidade Católica de Santa Catarina.
 
-Academicamente falando, sempre tive um ótimo desempenho. Notas altas, bom relacionamento com o corpo docente, etc. Embora eu não tenha experiência profissional formal, tenho uma paixão por aprender e melhorar constantemente minhas habilidades técnicas. As linguagens com as quais estou mais familiarizado incluem HTML, CSS, JavaScript, PHP e SQL.
+Sempre tive um ótimo desempenho acadêmico, com notas altas e um bom relacionamento com professores e colegas. Profissionalmente, estou em constante evolução, buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
-Meu interesse é amplo e estou sempre aberto para explorar novos ambientes de trabalho e tecnologias. Atualmente estou gostando muito de trabalhar com o React.js junto ao Tailwind em meus projetos.
+Tenho familiaridade com várias linguagens e ferramentas, incluindo Progress 4GL, HTML, CSS, JavaScript, PHP, SQL, React.js e Tailwind CSS. Recentemente, meu foco tem sido em projetos que envolvem sistemas corporativos e ERP, mas continuo explorando novas áreas e desafios.
 
-Recentemente, trabalhei em alguns projetos pessoais que incluem um site para explorar locais na cidade, um site para a Juventude da Igreja e um site para os Bombeiros. Esses projetos me permitiram aplicar e expandir meu conhecimento técnico, além de me dar uma visão valiosa do desenvolvimento de projetos do início ao fim.
+Meus projetos pessoais incluem sites voltados para explorar a cidade, iniciativas da Juventude da Igreja e suporte aos Bombeiros. Esses projetos me proporcionaram uma valiosa experiência prática e a oportunidade de aplicar conceitos técnicos em soluções do mundo real.
+
+Estou sempre em busca de novos desafios, colaborando em equipes dinâmicas e contribuindo para o desenvolvimento de soluções que fazem a diferença.
 
 <div>
         <a href="https://www.linkedin.com/in/miguel-hort-a05537204/"></a>
