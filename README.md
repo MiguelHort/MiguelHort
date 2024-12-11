@@ -2,7 +2,7 @@
 
 - 📚 Formado Técnico de Desenvolvimento de Sistemas.
 - 🖥️ Cursando Engenharia de Software.
-- 🌱 Atualmente estudando JavaScript, React e Sass.
+- 🌱 Atualmente estudando Progress 4GL e PO-UI.
 
 Meu nome é Miguel, tenho 19 anos, e sou apaixonado por tecnologia desde a infância. Atualmente, trabalho como Desenvolvedor Progress 4GL, com experiência no ERP Datasul. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI em 2023 e estou cursando Engenharia de Software na Universidade Católica de Santa Catarina.
 
