@@ -4,15 +4,7 @@
 - 🖥️ Cursando Engenharia de Software.
 - 🌱 Atualmente estudando Progress 4GL e PO-UI.
 
-Meu nome é Miguel, tenho 19 anos, e sou apaixonado por tecnologia desde a infância. Atualmente, trabalho como Desenvolvedor Progress 4GL, com experiência no ERP Datasul. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI em 2023 e estou cursando Engenharia de Software na Universidade Católica de Santa Catarina.
-
-Sempre tive um ótimo desempenho acadêmico, com notas altas e um bom relacionamento com professores e colegas. Profissionalmente, estou em constante evolução, buscando aprimorar minhas habilidades e aprender novas tecnologias.
-
-Tenho familiaridade com várias linguagens e ferramentas, incluindo Progress 4GL, HTML, CSS, JavaScript, PHP, SQL, React.js e Tailwind CSS. Recentemente, meu foco tem sido em projetos que envolvem sistemas corporativos e ERP, mas continuo explorando novas áreas e desafios.
-
-Meus projetos pessoais incluem sites voltados para explorar a cidade, iniciativas da Juventude da Igreja e suporte aos Bombeiros. Esses projetos me proporcionaram uma valiosa experiência prática e a oportunidade de aplicar conceitos técnicos em soluções do mundo real.
-
-Estou sempre em busca de novos desafios, colaborando em equipes dinâmicas e contribuindo para o desenvolvimento de soluções que fazem a diferença.
+Desenvolvedor de software com experiência em desenvolvimento web e manutenção de customizados no ERP TOTVS Datasul. Especializado em identificar e solucionar problemas dos clientes, utilizando tecnologias como Progress OpenEdge e PO-UI. Apaixonado por desafios e na busca contínua pela excelência em cada projeto.
 
 <div>
         <a href="https://www.linkedin.com/in/miguel-hort-a05537204/"></a>
