@@ -2,9 +2,9 @@
 
 - 📚 Formado Técnico de Desenvolvimento de Sistemas.
 - 🖥️ Cursando Engenharia de Software.
-- 🌱 Atualmente estudando Progress 4GL e PO-UI.
+- 🌱 Atualmente trabalho com Progress 4GL e PO-UI.
 
-Desenvolvedor de software com experiência em desenvolvimento web e manutenção de customizados no ERP TOTVS Datasul. Especializado em identificar e solucionar problemas dos clientes, utilizando tecnologias como Progress OpenEdge e PO-UI. Apaixonado por desafios e na busca contínua pela excelência em cada projeto.
+Desenvolvedor de software com experiência em desenvolvimento web (Next.js) e manutenção de customizados no ERP TOTVS Datasul. Especializado em identificar e solucionar problemas dos clientes, utilizando tecnologias como Progress OpenEdge e PO-UI. Apaixonado por desafios e na busca contínua pela excelência em cada projeto.
 
 <div>
         <a href="https://www.linkedin.com/in/miguel-hort-a05537204/"></a>
